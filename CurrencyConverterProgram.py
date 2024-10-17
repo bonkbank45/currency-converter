@@ -79,7 +79,7 @@ def RealTimeCyrren():
     querystring = {"from":currency_to_1,"to": currency_to_2,"amount":amount }
 
     headers = {
-	"X-RapidAPI-Key": "fca9ee2bb6msh022fef74df14ef2p11c7bbjsna39f50563873",
+	"X-RapidAPI-Key": "your_rapid_api_key",
 	"X-RapidAPI-Host": "currency-converter18.p.rapidapi.com"
     }
     #ถ้าไม่ใส่จำนวนเงิน
